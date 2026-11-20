@@ -1,0 +1,25 @@
+a=[10,20,30,40]
+print(a)
+print(type(a))
+
+b=["Anushka", "Sonal","Namrata"]
+print(b)
+print(a[0:2])
+print(a[:3])
+print(a[::2])
+print(a[-1])
+a.append(50)
+print(a)
+a.insert(1,15)
+print(a)
+a.extend([15,25,35])
+print(a)
+a.remove(10)
+print(a)
+print(a[4])
+a.pop(1)
+print(a)
+a.clear()
+print(a)
+del a[1]
+print(a)
