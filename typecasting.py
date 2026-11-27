@@ -1,3 +1,4 @@
+#typecasting
 # a=int(10)
 # b=str(20)
 # print(type(a))

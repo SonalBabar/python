@@ -47,4 +47,20 @@
 # for i in range(1,11):
 #     print(a,"*",i,"=",a*i)                   
 
+#break
+# list=range(8)
+# for i in list:
+#     if i ==4:
+#         continue    #break 
+#     print(i)
 
+# a=int(input("enter a no "))
+# if a%2==0:
+#     print(a," even no")
+# else:
+#     print(a, " odd no")    
+
+a=range(1,51)
+for i in a:
+    if i%2==0:
+        print(i)    
