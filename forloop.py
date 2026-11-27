@@ -60,7 +60,11 @@
 # else:
 #     print(a, " odd no")    
 
-a=range(1,51)
+# a=range(1,51)
+# for i in a:
+#     if i%2==0:
+#         print(i)    
+
+a=range(1,101)
 for i in a:
-    if i%2==0:
-        print(i)    
+    print(i)
